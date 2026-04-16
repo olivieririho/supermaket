@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Supermarket POS System
 
 Full-stack Point of Sale system for supermarket operations in Kicukiro District.
@@ -39,3 +40,7 @@ npm run dev
 ## Notes
 - Default admin user is seeded in `backend/db.sql`.
 - Use `http://localhost:3000` for the frontend and `http://localhost:5000` for the backend.
+=======
+# supermaket
+supermarket POS
+>>>>>>> 89a14bc565d3898b4524632e1bbc030925abe56f
